@@ -1,6 +1,6 @@
 # Azureopenai-Function-Calling
 OpenAI Function Calling tool - working in AzureOpenai
-Im using OpenAi 1.9, gpt-4-1106 preview, 2023-12-01-preview
+Im using OpenAi 1.9, gpt-4-1106 preview, 2023-12-01-preview, know bug in SouthUK please pick another region - this is deployed in CentralSweden
 
  ```python
 import os
