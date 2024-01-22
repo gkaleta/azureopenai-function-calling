@@ -4,7 +4,7 @@
 | API | Description |
 | --- | --- |
 | OpenAI | Ensure you have 1.8x or 1.9 |
-| LLM Model | Ensure you using gpt-4-1106 preview |
+| LLM Model | Ensure you using gpt-4-1106 preview but gpt-35-turbo is also supported |
 | Azure API | You must use 2023-12-01-preview |
 | location | In the writing of this 22th Jan avoid SouthUK - this was tested with CentralSweden |
 
